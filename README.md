@@ -1,0 +1,4 @@
+dokutest
+========
+
+For documentation purposes
